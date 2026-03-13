@@ -1,0 +1,64 @@
+{
+  "concepts": [
+    {
+      "title": "Получение паспорта в 14 лет",
+      "file": "pasport_14.md"
+    },
+    {
+      "title": "Трудоустройство подростков",
+      "file": "trudoustroystvo_podrostkov.md"
+    },
+    {
+      "title": "Права и обязанности школьника",
+      "file": "prava_shkolnika.md"
+    },
+    {
+      "title": "Комендантский час для несовершеннолетних",
+      "file": "komendantskiy_chas.md"
+    },
+    {
+      "title": "Юридическая ответственность несовершеннолетних",
+      "file": "otvetstvennost_nesovershennoletnih.md"
+    },
+    {
+      "title": "Зачем нужны законы",
+      "file": "zachem_zakony.md"
+    },
+    {
+      "title": "Волонтёрство и добровольчество",
+      "file": "volonterstvo.md"
+    },
+    {
+      "title": "Официальная работа для подростков",
+      "file": "oficialnaya_rabota.md"
+    },
+    {
+      "title": "Мошенничество при трудоустройстве",
+      "file": "moshennichestvo_trudoustroystvo.md"
+    },
+    {
+      "title": "Как управлять карманными деньгами",
+      "file": "karman_dengi_upravlenie.md"
+    },
+    {
+      "title": "Долги среди друзей",
+      "file": "dolgi_druzya.md"
+    },
+    {
+      "title": "Почему лайки влияют на настроение",
+      "file": "vliyanie_socsetey.md"
+    },
+    {
+      "title": "Как работают алгоритмы соцсетей",
+      "file": "algoritmy_socsetey.md"
+    },
+    {
+      "title": "Фишинг и как не попасться",
+      "file": "phishing.md"
+    },
+    {
+      "title": "Мошенники в онлайн‑играх",
+      "file": "moshenniki_igry.md"
+    }
+  ]
+}
