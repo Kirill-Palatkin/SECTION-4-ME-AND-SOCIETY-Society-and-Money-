@@ -232,37 +232,43 @@ WORK/society/
     ├── run_sparql.py            — запуск всех SPARQL-запросов
     └── link_concepts.py         — расстановка перекрёстных ссылок
 
-WEB/society/concepts/
-├── chto_ya_mogu_s_14_let.md
-├── prava_v_shkole_i_doma.md
-├── komendantskiy_chas_i_police.md
-├── obyazannosti_pered_roditelyami.md
-├── kuda_zhalovatsya.md
-├── zachem_zakony.md
-├── pochemu_nelzya_musorit.md
-├── ya_i_gosudarstvo.md
-├── volonterstvo.md
-├── pravila_rayona.md
-├── gde_rabotat_v_14.md
-├── pomoshch_sosedyam.md
-├── kak_ne_popast_na_razvod.md
-├── balans_raboty_i_uchyoby.md
-├── dengi_i_roditeli.md
-├── skolko_dayut_vs_khochetsya.md
-├── kopit_ili_tratit.md
-├── na_chto_ne_zhalko_deneg.md
-├── dolgi_druzya.md
-├── kak_dogovoritsya_o_povyshenii.md
-├── pochemu_laiki_vliyayut.md
-├── algoritmy_socsetey.md
-├── blogerstvo.md
-├── zavist_k_chuzhoy_zhizni.md
-├── kak_ne_prosidet_v_telefone.md
-├── vy_vyigrali_ayfon.md
-├── phishing.md
-├── legkiy_zarabotok.md
-├── moshenniki_v_igrakh.md
-└── kuda_bezhat_esli_obmanuli.md
+WEB/society/
+├── 01_prava_i_obyazannosti/
+│   ├── chto_ya_mogu_s_14_let.md
+│   ├── prava_v_shkole_i_doma.md
+│   ├── komendantskiy_chas_i_police.md
+│   ├── obyazannosti_pered_roditelyami.md
+│   └── kuda_zhalovatsya.md
+├── 02_obshestvo_i_pravila/
+│   ├── zachem_zakony.md
+│   ├── pochemu_nelzya_musorit.md
+│   ├── ya_i_gosudarstvo.md
+│   ├── volonterstvo.md
+│   └── pravila_rayona.md
+├── 03_pervye_dengi/
+│   ├── gde_rabotat_v_14.md
+│   ├── pomoshch_sosedyam.md
+│   ├── kak_ne_popast_na_razvod.md
+│   ├── balans_raboty_i_uchyoby.md
+│   └── dengi_i_roditeli.md
+├── 04_karmannye_dengi/
+│   ├── skolko_dayut_vs_khochetsya.md
+│   ├── kopit_ili_tratit.md
+│   ├── na_chto_ne_zhalko_deneg.md
+│   ├── dolgi_druzya.md
+│   └── kak_dogovoritsya_o_povyshenii.md
+├── 05_socseti/
+│   ├── pochemu_laiki_vliyayut.md
+│   ├── algoritmy_socsetey.md
+│   ├── blogerstvo.md
+│   ├── zavist_k_chuzhoy_zhizni.md
+│   └── kak_ne_prosidet_v_telefone.md
+└── 06_moshenniki/
+    ├── vy_vyigrali_ayfon.md
+    ├── phishing.md
+    ├── legkiy_zarabotok.md
+    ├── moshenniki_v_igrakh.md
+    └── kuda_bezhat_esli_obmanuli.md
 ```
 
 ---

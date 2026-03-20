@@ -3,67 +3,163 @@
     {
       "id": 1,
       "title": "Мои права и обязанности",
+      "dir": "01_prava_i_obyazannosti",
       "concepts": [
-        {"title": "Что я могу с 14 лет (паспорт, работа, ответственность)", "file": "chto_ya_mogu_s_14_let.md"},
-        {"title": "Мои права в школе и дома", "file": "prava_v_shkole_i_doma.md"},
-        {"title": "Комендантский час и полиция", "file": "komendantskiy_chas_i_police.md"},
-        {"title": "Мои обязанности перед родителями и законом", "file": "obyazannosti_pered_roditelyami.md"},
-        {"title": "Куда жаловаться, если права нарушают", "file": "kuda_zhalovatsya.md"}
+        {
+          "title": "Что я могу с 14 лет (паспорт, работа, ответственность)",
+          "file": "01_prava_i_obyazannosti/concepts/chto_ya_mogu_s_14_let.md"
+        },
+        {
+          "title": "Мои права в школе и дома",
+          "file": "01_prava_i_obyazannosti/concepts/prava_v_shkole_i_doma.md"
+        },
+        {
+          "title": "Комендантский час и полиция",
+          "file": "01_prava_i_obyazannosti/concepts/komendantskiy_chas_i_police.md"
+        },
+        {
+          "title": "Мои обязанности перед родителями и законом",
+          "file": "01_prava_i_obyazannosti/concepts/obyazannosti_pered_roditelyami.md"
+        },
+        {
+          "title": "Куда жаловаться, если права нарушают",
+          "file": "01_prava_i_obyazannosti/concepts/kuda_zhalovatsya.md"
+        }
       ]
     },
     {
       "id": 2,
       "title": "Моё общество и правила",
+      "dir": "02_obshestvo_i_pravila",
       "concepts": [
-        {"title": "Зачем нужны законы, если всё равно их нарушают", "file": "zachem_zakony.md"},
-        {"title": "Почему нельзя мусорить, если никто не видит", "file": "pochemu_nelzya_musorit.md"},
-        {"title": "Я и государство: есть ли мне дело до политики", "file": "ya_i_gosudarstvo.md"},
-        {"title": "Волонтёрство и помощь другим — зачем это", "file": "volonterstvo.md"},
-        {"title": "Правила моего района: как не вляпаться", "file": "pravila_rayona.md"}
+        {
+          "title": "Зачем нужны законы, если всё равно их нарушают",
+          "file": "02_obshestvo_i_pravila/concepts/zachem_zakony.md"
+        },
+        {
+          "title": "Почему нельзя мусорить, если никто не видит",
+          "file": "02_obshestvo_i_pravila/concepts/pochemu_nelzya_musorit.md"
+        },
+        {
+          "title": "Я и государство: есть ли мне дело до политики",
+          "file": "02_obshestvo_i_pravila/concepts/ya_i_gosudarstvo.md"
+        },
+        {
+          "title": "Волонтёрство и помощь другим — зачем это",
+          "file": "02_obshestvo_i_pravila/concepts/volonterstvo.md"
+        },
+        {
+          "title": "Правила моего района: как не вляпаться",
+          "file": "02_obshestvo_i_pravila/concepts/pravila_rayona.md"
+        }
       ]
     },
     {
       "id": 3,
       "title": "Мои первые деньги",
+      "dir": "03_pervye_dengi",
       "concepts": [
-        {"title": "Где работать в 14–16 лет (официально и не очень)", "file": "gde_rabotat_v_14.md"},
-        {"title": "Помощь соседям, няни, курьеры", "file": "pomoshch_sosedyam.md"},
-        {"title": "Как не попасть на развод при поиске работы", "file": "kak_ne_popast_na_razvod.md"},
-        {"title": "Баланс работы и учёбы", "file": "balans_raboty_i_uchyoby.md"},
-        {"title": "Деньги и родители: отдавать или оставлять себе", "file": "dengi_i_roditeli.md"}
+        {
+          "title": "Где работать в 14–16 лет (официально и не очень)",
+          "file": "03_pervye_dengi/concepts/gde_rabotat_v_14.md"
+        },
+        {
+          "title": "Помощь соседям, няни, курьеры",
+          "file": "03_pervye_dengi/concepts/pomoshch_sosedyam.md"
+        },
+        {
+          "title": "Как не попасть на развод при поиске работы",
+          "file": "03_pervye_dengi/concepts/kak_ne_popast_na_razvod.md"
+        },
+        {
+          "title": "Баланс работы и учёбы",
+          "file": "03_pervye_dengi/concepts/balans_raboty_i_uchyoby.md"
+        },
+        {
+          "title": "Деньги и родители: отдавать или оставлять себе",
+          "file": "03_pervye_dengi/concepts/dengi_i_roditeli.md"
+        }
       ]
     },
     {
       "id": 4,
       "title": "Мои карманные деньги",
+      "dir": "04_karmannye_dengi",
       "concepts": [
-        {"title": "Сколько дают vs сколько хочется", "file": "skolko_dayut_vs_khochetsya.md"},
-        {"title": "Копить или тратить сразу", "file": "kopit_ili_tratit.md"},
-        {"title": "На что не жалко денег (хобби, вкусняшки, друзья)", "file": "na_chto_ne_zhalko_deneg.md"},
-        {"title": "Долги среди друзей: давать или нет", "file": "dolgi_druzya.md"},
-        {"title": "Как договориться с родителями о повышении", "file": "kak_dogovoritsya_o_povyshenii.md"}
+        {
+          "title": "Сколько дают vs сколько хочется",
+          "file": "04_karmannye_dengi/concepts/skolko_dayut_vs_khochetsya.md"
+        },
+        {
+          "title": "Копить или тратить сразу",
+          "file": "04_karmannye_dengi/concepts/kopit_ili_tratit.md"
+        },
+        {
+          "title": "На что не жалко денег (хобби, вкусняшки, друзья)",
+          "file": "04_karmannye_dengi/concepts/na_chto_ne_zhalko_deneg.md"
+        },
+        {
+          "title": "Долги среди друзей: давать или нет",
+          "file": "04_karmannye_dengi/concepts/dolgi_druzya.md"
+        },
+        {
+          "title": "Как договориться с родителями о повышении",
+          "file": "04_karmannye_dengi/concepts/kak_dogovoritsya_o_povyshenii.md"
+        }
       ]
     },
     {
       "id": 5,
       "title": "Мои социальные сети",
+      "dir": "05_socseti",
       "concepts": [
-        {"title": "Почему лайки влияют на настроение", "file": "pochemu_laiki_vliyayut.md"},
-        {"title": "Алгоритмы: почему я вижу то, что вижу", "file": "algoritmy_socsetey.md"},
-        {"title": "Блогерство: стоит ли пробовать", "file": "blogerstvo.md"},
-        {"title": "Зависть к чужой красивой жизни", "file": "zavist_k_chuzhoy_zhizni.md"},
-        {"title": "Как не просидеть всю жизнь в телефоне", "file": "kak_ne_prosidet_v_telefone.md"}
+        {
+          "title": "Почему лайки влияют на настроение",
+          "file": "05_socseti/concepts/pochemu_laiki_vliyayut.md"
+        },
+        {
+          "title": "Алгоритмы: почему я вижу то, что вижу",
+          "file": "05_socseti/concepts/algoritmy_socsetey.md"
+        },
+        {
+          "title": "Блогерство: стоит ли пробовать",
+          "file": "05_socseti/concepts/blogerstvo.md"
+        },
+        {
+          "title": "Зависть к чужой красивой жизни",
+          "file": "05_socseti/concepts/zavist_k_chuzhoy_zhizni.md"
+        },
+        {
+          "title": "Как не просидеть всю жизнь в телефоне",
+          "file": "05_socseti/concepts/kak_ne_prosidet_v_telefone.md"
+        }
       ]
     },
     {
       "id": 6,
       "title": "Мошенники и лохотрон",
+      "dir": "06_moshenniki",
       "concepts": [
-        {"title": "«Вы выиграли айфон» — почему это развод", "file": "vy_vyigrali_ayfon.md"},
-        {"title": "Фишинг, просьбы перевести деньги", "file": "phishing.md"},
-        {"title": "Легкий заработок — чем пахнет", "file": "legkiy_zarabotok.md"},
-        {"title": "Мошенники в играх (обмен аккаунтами, скины)", "file": "moshenniki_v_igrakh.md"},
-        {"title": "Куда бежать, если обманули", "file": "kuda_bezhat_esli_obmanuli.md"}
+        {
+          "title": "«Вы выиграли айфон» — почему это развод",
+          "file": "06_moshenniki/concepts/vy_vyigrali_ayfon.md"
+        },
+        {
+          "title": "Фишинг, просьбы перевести деньги",
+          "file": "06_moshenniki/concepts/phishing.md"
+        },
+        {
+          "title": "Легкий заработок — чем пахнет",
+          "file": "06_moshenniki/concepts/legkiy_zarabotok.md"
+        },
+        {
+          "title": "Мошенники в играх (обмен аккаунтами, скины)",
+          "file": "06_moshenniki/concepts/moshenniki_v_igrakh.md"
+        },
+        {
+          "title": "Куда бежать, если обманули",
+          "file": "06_moshenniki/concepts/kuda_bezhat_esli_obmanuli.md"
+        }
       ]
     }
   ]
