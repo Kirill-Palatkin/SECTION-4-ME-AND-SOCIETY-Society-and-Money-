@@ -1,0 +1,205 @@
+{
+  "head": {
+    "vars": [
+      "law",
+      "lawLabel",
+      "countryLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941704"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child Online Protection Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941704"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child Online Protection Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941704"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child Online Protection Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941704"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child Online Protection Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941704"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child Online Protection Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2735128"
+        },
+        "lawLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Хартия труда"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Италия"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2735128"
+        },
+        "lawLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Хартия труда"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Италия"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11072708"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Act of Gender Equality in Employment"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китайская Республика (Тайвань)"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15926318"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Labor Standards Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китайская Республика (Тайвань)"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15926318"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Labor Standards Act"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китайская Республика (Тайвань)"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18884949"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child pornography laws in Taiwan"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китайская Республика (Тайвань)"
+        }
+      },
+      {
+        "law": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10275512"
+        },
+        "lawLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child and Adolescent Statute"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Бразилия"
+        }
+      }
+    ]
+  }
+}

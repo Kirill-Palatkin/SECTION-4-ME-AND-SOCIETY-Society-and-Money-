@@ -1,0 +1,354 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16686448"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386724"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "искусственный объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "произведение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28786318"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9788"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "буквенно-цифровой символ"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "буква"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3241972"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28786318"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "символ"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "буквенно-цифровой символ"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5371079"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2545446"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "эмическая единица"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "графема"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9788"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3841820"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "буква"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "согласная буква"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19793988"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179860"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "буква кириллицы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Х"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11953984"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2545446"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "лингвистическая единица"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "графема"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2198779"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11953984"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "единица"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "лингвистическая единица"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386724"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3695082"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "произведение"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "знак"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35120"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488383"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сущность"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "объект"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80071"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3241972"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "символ"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "символ"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3695082"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2545446"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "знак"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "графема"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7048977"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2198779"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нефизическая сущность"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "единица"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3841820"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179860"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "согласная буква"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Х"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2545446"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9788"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "графема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "буква"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1272626"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80071"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "репрезентация"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "символ"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488383"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3695082"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "знак"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "head": {
+    "vars": [
+      "crime",
+      "crimeLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q438240"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "fraud in Hungary (1925)"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q438240"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q456843"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "former financial company perpetrating a Ponzi scheme"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amber Gold"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1025099"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "confidence trick"
+        },
+        "crimeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "напёрстки"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1878916"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "multi-level marketing company"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lyoness"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1886291"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "electronic chain letter"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Make Money Fast"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2305268"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q2305268"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2595956"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "medical fraud in which the practitioner creates the illusion of performing surgery"
+        },
+        "crimeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хилерство"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2646036"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q2646036"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2723024"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "2001 accounting scandal of American energy company Enron"
+        },
+        "crimeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дело Enron"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2749846"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q2749846"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2825976"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q2825976"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3430134"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Finnish pyramid scheme"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "WinCapita"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4499821"
+        },
+        "crimeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Хопёр-Инвест"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4502745"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "food scandal in Europe"
+        },
+        "crimeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Мясной скандал в Европе в начале 2013 года"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4684581"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "fradulent child adoption"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "adoption fraud"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4744695"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "fraudulent entity claiming to be a private military company"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American Police Force"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4914641"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American multi-level marketing company"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "BioPerformance"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4938345"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "an outbound call center selling questionable investments by telephone"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boiler room"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5165666"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "type of academic fraud"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Contract cheating"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5384524"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "multi-level marketing organization"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Equinox"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5413953"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q5413953"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5422483"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legal concept"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "extrinsic fraud"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5432684"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "the fraudulent act of sending a false invoice to someone in the hopes that they will pay it"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "false billing"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5748774"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "pseudoscientific marketing term"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "hexagonal water"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5756376"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q5756376"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5756430"
+        },
+        "crimeLabel": {
+          "type": "literal",
+          "value": "Q5756430"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5880444"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American multi-level marketing company"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Holiday Magic"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6029533"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jet Otomobil Pazarlama"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6137387"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Education fraud case"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "James Kirk diploma mills"
+        }
+      },
+      {
+        "crime": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6228605"
+        },
+        "description": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "former teacher and prison officer"
+        },
+        "crimeLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Darwin disappearance case"
+        }
+      }
+    ]
+  }
+}

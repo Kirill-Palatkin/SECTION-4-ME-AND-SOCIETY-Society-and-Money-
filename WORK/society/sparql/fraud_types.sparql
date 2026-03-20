@@ -1,0 +1,10 @@
+# SPARQL-запрос: Виды мошенничества и киберпреступлений
+# Источник: Wikidata
+# Раздел 6: Мошенники и лохотрон
+
+SELECT ?crime ?crimeLabel ?description WHERE {
+  ?crime wdt:P31/wdt:P279* wd:Q28813.
+  OPTIONAL { ?crime schema:description ?description. FILTER(LANG(?description) = "en") }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 30

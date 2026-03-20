@@ -1,0 +1,20 @@
+# SPARQL-запрос: Законодательство о труде и занятости
+# Источник: Wikidata
+# Раздел 3: Мои первые деньги
+
+SELECT ?law ?lawLabel ?countryLabel WHERE {
+  ?law wdt:P31 wd:Q7748.
+  ?law wdt:P17 ?country.
+  ?law rdfs:label ?label.
+  FILTER(
+    CONTAINS(LCASE(?label), "труд") ||
+    CONTAINS(LCASE(?label), "labour") ||
+    CONTAINS(LCASE(?label), "labor") ||
+    CONTAINS(LCASE(?label), "employment") ||
+    CONTAINS(LCASE(?label), "занят") ||
+    CONTAINS(LCASE(?label), "child") ||
+    CONTAINS(LCASE(?label), "minor")
+  )
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 30

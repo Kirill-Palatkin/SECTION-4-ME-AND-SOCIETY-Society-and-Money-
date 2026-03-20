@@ -1,64 +1,70 @@
 {
-  "concepts": [
+  "sections": [
     {
-      "title": "Получение паспорта в 14 лет",
-      "file": "pasport_14.md"
+      "id": 1,
+      "title": "Мои права и обязанности",
+      "concepts": [
+        {"title": "Что я могу с 14 лет (паспорт, работа, ответственность)", "file": "chto_ya_mogu_s_14_let.md"},
+        {"title": "Мои права в школе и дома", "file": "prava_v_shkole_i_doma.md"},
+        {"title": "Комендантский час и полиция", "file": "komendantskiy_chas_i_police.md"},
+        {"title": "Мои обязанности перед родителями и законом", "file": "obyazannosti_pered_roditelyami.md"},
+        {"title": "Куда жаловаться, если права нарушают", "file": "kuda_zhalovatsya.md"}
+      ]
     },
     {
-      "title": "Трудоустройство подростков",
-      "file": "trudoustroystvo_podrostkov.md"
+      "id": 2,
+      "title": "Моё общество и правила",
+      "concepts": [
+        {"title": "Зачем нужны законы, если всё равно их нарушают", "file": "zachem_zakony.md"},
+        {"title": "Почему нельзя мусорить, если никто не видит", "file": "pochemu_nelzya_musorit.md"},
+        {"title": "Я и государство: есть ли мне дело до политики", "file": "ya_i_gosudarstvo.md"},
+        {"title": "Волонтёрство и помощь другим — зачем это", "file": "volonterstvo.md"},
+        {"title": "Правила моего района: как не вляпаться", "file": "pravila_rayona.md"}
+      ]
     },
     {
-      "title": "Права и обязанности школьника",
-      "file": "prava_shkolnika.md"
+      "id": 3,
+      "title": "Мои первые деньги",
+      "concepts": [
+        {"title": "Где работать в 14–16 лет (официально и не очень)", "file": "gde_rabotat_v_14.md"},
+        {"title": "Помощь соседям, няни, курьеры", "file": "pomoshch_sosedyam.md"},
+        {"title": "Как не попасть на развод при поиске работы", "file": "kak_ne_popast_na_razvod.md"},
+        {"title": "Баланс работы и учёбы", "file": "balans_raboty_i_uchyoby.md"},
+        {"title": "Деньги и родители: отдавать или оставлять себе", "file": "dengi_i_roditeli.md"}
+      ]
     },
     {
-      "title": "Комендантский час для несовершеннолетних",
-      "file": "komendantskiy_chas.md"
+      "id": 4,
+      "title": "Мои карманные деньги",
+      "concepts": [
+        {"title": "Сколько дают vs сколько хочется", "file": "skolko_dayut_vs_khochetsya.md"},
+        {"title": "Копить или тратить сразу", "file": "kopit_ili_tratit.md"},
+        {"title": "На что не жалко денег (хобби, вкусняшки, друзья)", "file": "na_chto_ne_zhalko_deneg.md"},
+        {"title": "Долги среди друзей: давать или нет", "file": "dolgi_druzya.md"},
+        {"title": "Как договориться с родителями о повышении", "file": "kak_dogovoritsya_o_povyshenii.md"}
+      ]
     },
     {
-      "title": "Юридическая ответственность несовершеннолетних",
-      "file": "otvetstvennost_nesovershennoletnih.md"
+      "id": 5,
+      "title": "Мои социальные сети",
+      "concepts": [
+        {"title": "Почему лайки влияют на настроение", "file": "pochemu_laiki_vliyayut.md"},
+        {"title": "Алгоритмы: почему я вижу то, что вижу", "file": "algoritmy_socsetey.md"},
+        {"title": "Блогерство: стоит ли пробовать", "file": "blogerstvo.md"},
+        {"title": "Зависть к чужой красивой жизни", "file": "zavist_k_chuzhoy_zhizni.md"},
+        {"title": "Как не просидеть всю жизнь в телефоне", "file": "kak_ne_prosidet_v_telefone.md"}
+      ]
     },
     {
-      "title": "Зачем нужны законы",
-      "file": "zachem_zakony.md"
-    },
-    {
-      "title": "Волонтёрство и добровольчество",
-      "file": "volonterstvo.md"
-    },
-    {
-      "title": "Официальная работа для подростков",
-      "file": "oficialnaya_rabota.md"
-    },
-    {
-      "title": "Мошенничество при трудоустройстве",
-      "file": "moshennichestvo_trudoustroystvo.md"
-    },
-    {
-      "title": "Как управлять карманными деньгами",
-      "file": "karman_dengi_upravlenie.md"
-    },
-    {
-      "title": "Долги среди друзей",
-      "file": "dolgi_druzya.md"
-    },
-    {
-      "title": "Почему лайки влияют на настроение",
-      "file": "vliyanie_socsetey.md"
-    },
-    {
-      "title": "Как работают алгоритмы соцсетей",
-      "file": "algoritmy_socsetey.md"
-    },
-    {
-      "title": "Фишинг и как не попасться",
-      "file": "phishing.md"
-    },
-    {
-      "title": "Мошенники в онлайн‑играх",
-      "file": "moshenniki_igry.md"
+      "id": 6,
+      "title": "Мошенники и лохотрон",
+      "concepts": [
+        {"title": "«Вы выиграли айфон» — почему это развод", "file": "vy_vyigrali_ayfon.md"},
+        {"title": "Фишинг, просьбы перевести деньги", "file": "phishing.md"},
+        {"title": "Легкий заработок — чем пахнет", "file": "legkiy_zarabotok.md"},
+        {"title": "Мошенники в играх (обмен аккаунтами, скины)", "file": "moshenniki_v_igrakh.md"},
+        {"title": "Куда бежать, если обманули", "file": "kuda_bezhat_esli_obmanuli.md"}
+      ]
     }
   ]
 }

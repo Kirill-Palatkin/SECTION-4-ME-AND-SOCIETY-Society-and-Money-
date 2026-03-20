@@ -1,0 +1,601 @@
+{
+  "head": {
+    "vars": [
+      "org",
+      "orgLabel",
+      "countryLabel",
+      "website"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53268"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://global.toyota"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toyota"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Япония"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55931"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hyundai.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hyundai Motor"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Германия"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55931"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hyundai.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hyundai Motor"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Республика Корея"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58024"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.ebay.com"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "eBay"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60427"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.waza.org"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Всемирная ассоциация зоопарков и аквариумов"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Испания"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60648"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Independent Moving Pictures"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63056"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.findagrave.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Find a Grave"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63345"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Движение 23 марта"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Демократическая Республика Конго"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q72781"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.privacyinternational.org/"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy International"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Великобритания"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q72781"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy International"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Великобритания"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q74662"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.fundsquare.net/search"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люксембургская фондовая биржа"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люксембург"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q74662"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.luxse.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люксембургская фондовая биржа"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люксембург"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q74877"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.jcdecaux.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "JCDecaux"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75359"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Atheist Union of Greece"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Греция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75478"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://engineering.nyu.edu"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Политехнический институт Нью-Йоркского университета"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80796"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.frontiersin.org/"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Frontiers Media"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Швейцария"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81204"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.oberthur.com"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oberthur Technologies"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81510"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.barum-online.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Continental Barum"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Чехия"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82059"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nasdaq.com"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nasdaq"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82059"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nasdaq.com"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nasdaq"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Швеция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83259"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.ens.psl.eu/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Высшая нормальная школа"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q84026"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ifpenergiesnouvelles.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Французский институт нефти"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://sejm.gov.pl"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сейм Республики Польша"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Польша"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111054"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.taize.fr/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тэзе"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111546"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.ipsen.com/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ipsen"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112531"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.editpress.lu/"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Editpress"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люксембург"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114794"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.rsi.ch"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Radiotelevisione svizzera di lingua italiana"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Швейцария"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115854"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.lucernefestival.ch"
+        },
+        "orgLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люцернский фестиваль"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Швейцария"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116810"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cepesca.es/"
+        },
+        "orgLabel": {
+          "type": "literal",
+          "value": "Q116810"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Испания"
+        }
+      },
+      {
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117215"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.ilevia.fr/"
+        },
+        "orgLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ilévia"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      }
+    ]
+  }
+}

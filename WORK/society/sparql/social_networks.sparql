@@ -1,0 +1,11 @@
+# SPARQL-запрос: Социальные сети и платформы
+# Источник: Wikidata
+# Раздел 5: Мои социальные сети
+
+SELECT ?platform ?platformLabel ?founded ?users WHERE {
+  ?platform wdt:P31/wdt:P279* wd:Q3220391.
+  OPTIONAL { ?platform wdt:P571 ?founded. }
+  OPTIONAL { ?platform wdt:P1813 ?users. }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 30

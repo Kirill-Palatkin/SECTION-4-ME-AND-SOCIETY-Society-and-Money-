@@ -1,0 +1,10 @@
+# SPARQL-запрос: Возраст наступления ответственности в разных странах
+# Источник: Wikidata
+# Раздел 1: Мои права и обязанности
+
+SELECT ?country ?countryLabel ?minAge WHERE {
+  ?country wdt:P31 wd:Q6256.
+  ?country wdt:P3006 ?minAge.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 30

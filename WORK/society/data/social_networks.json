@@ -1,0 +1,497 @@
+{
+  "head": {
+    "vars": [
+      "platform",
+      "platformLabel",
+      "founded",
+      "users"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-02-04T00:00:00Z"
+        },
+        "users": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FB"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facebook"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q356"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-06-28T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Google+"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q364"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-10-19T00:00:00Z"
+        },
+        "platformLabel": {
+          "type": "literal",
+          "value": "Q364"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q918"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2006-03-21T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "X"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1136"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2005-06-23T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "reddit"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28773"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-07-02T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Identi.ca"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29760"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-09-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Cyworld"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32111"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-05-12T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Plurk"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32813"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "BookMooch"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40629"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2003-01-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Myspace"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51709"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-01-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Foursquare Labs, Inc."
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56173"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2002-04-14T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "iWiW"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58166"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1996-11-15T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ICQ"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92526"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-09T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sina Weibo"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116933"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2006-10-10T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ВКонтакте"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131910"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-09-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Yammer"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q155175"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-02-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Spickmich"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171186"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-08-23T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Blogger"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q175800"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lokalisten"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183718"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2002-03-20T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Last.fm"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209330"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-06T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Instagram"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213660"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2002-01-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LinkedIn"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213660"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2003-05-05T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LinkedIn"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219523"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "users": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ЖЖ"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Живой Журнал"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219523"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "users": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LJ"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Живой Журнал"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q231396"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-24T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Orkut"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253889"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ning"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q255381"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-01-16T00:00:00Z"
+        },
+        "platformLabel": {
+          "type": "literal",
+          "value": "Q255381"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q255683"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-09-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Портал немецких алюмни"
+        }
+      },
+      {
+        "platform": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q277421"
+        },
+        "founded": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-01-01T00:00:00Z"
+        },
+        "platformLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "9GAG"
+        }
+      }
+    ]
+  }
+}

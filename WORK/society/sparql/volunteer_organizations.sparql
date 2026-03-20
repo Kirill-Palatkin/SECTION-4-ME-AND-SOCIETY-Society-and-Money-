@@ -1,0 +1,13 @@
+# SPARQL-запрос: Волонтёрские организации
+# Источник: Wikidata
+# Раздел 2: Моё общество и правила
+
+SELECT ?org ?orgLabel ?countryLabel ?website WHERE {
+  { ?org wdt:P31 wd:Q43229. }
+  UNION
+  { ?org wdt:P31 wd:Q163180. }
+  ?org wdt:P17 ?country.
+  OPTIONAL { ?org wdt:P856 ?website. }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 30

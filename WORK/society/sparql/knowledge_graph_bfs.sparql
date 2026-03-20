@@ -1,0 +1,25 @@
+# SPARQL-запрос: Графовый обход (BFS) от понятия "права ребёнка"
+# Извлечение подграфа знаний из Wikidata
+# См. https://addshore.com/2022/01/wikidata-ontological-tree-of-trains/
+
+PREFIX gas: <http://www.bigdata.com/rdf/gas#>
+
+SELECT DISTINCT ?item1 ?item1Label ?item2 ?item2Label
+WHERE {
+  {
+    SELECT ?item1 ?item2
+    WHERE {
+      SERVICE gas:service {
+        gas:program gas:gasClass "com.bigdata.rdf.graph.analytics.BFS" ;
+          gas:in wd:Q179860 ;
+          gas:traversalDirection "Forward" ;
+          gas:out ?item1 ;
+          gas:out1 ?depth1 ;
+          gas:out2 ?item2 ;
+          gas:linkType wdt:P279 ;
+      }
+    }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 50

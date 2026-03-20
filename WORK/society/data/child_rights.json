@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "typeLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24498942"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ЭСБЕ / Х"
+        },
+        "typeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "энциклопедическая статья"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24744574"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "МЭСБЕ / Х (буква)"
+        },
+        "typeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "энциклопедическая статья"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30163619"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ТСД / Х"
+        },
+        "typeLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "словарная статья"
+        }
+      }
+    ]
+  }
+}

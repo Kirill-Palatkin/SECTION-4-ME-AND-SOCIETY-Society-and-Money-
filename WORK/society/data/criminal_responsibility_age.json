@@ -1,0 +1,463 @@
+{
+  "head": {
+    "vars": [
+      "country",
+      "countryLabel",
+      "minAge"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2169"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Канада"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2121"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Япония"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2252"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Норвегия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2130"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Венгрия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2185"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Испания"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2204"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "США"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "14"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Бельгия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2233"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Люксембург"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2106"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Финляндия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2180"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Швеция"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2157"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дания"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2156"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Литва"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2133"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Италия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q39"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2179"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Швейцария"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2146"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Австрия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2099"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Греция"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2243"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Португалия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q77"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2216"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Уругвай"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q79"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "3868"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Египет"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2224"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Мексика"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2118"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Кения"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2109"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Эфиопия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2100"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Гана"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "17"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Франция"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q155"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2143"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Бразилия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2101"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Германия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2141"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Беларусь"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2129"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Исландия"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2110"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Эстония"
+        }
+      },
+      {
+        "country": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211"
+        },
+        "minAge": {
+          "type": "literal",
+          "value": "2132"
+        },
+        "countryLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Латвия"
+        }
+      }
+    ]
+  }
+}
